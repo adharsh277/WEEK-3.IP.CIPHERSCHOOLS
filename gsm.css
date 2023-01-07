@@ -1,0 +1,12 @@
+let age = 16
+if (age>=18){
+    console.log("you can play GTA")
+
+}
+else{
+    console.log("elli thokkudubilla aadukomma ")
+}
+// ternary operator
+let age = 5
+let canDrink = (age>=21) ? "Alcohol":"Milk" // condition ? value1:value2
+console.log(canDrink
